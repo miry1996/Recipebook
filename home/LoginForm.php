@@ -9,7 +9,7 @@
     <form action="LoginConnection.php" method="GET">
        
 			Enter your user name:<br>
-			<input type="text" name="username">
+			<input type="password" name="username">
 			<br>
 			<br>
 	  
